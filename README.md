@@ -18,6 +18,7 @@ Presentation for PloneConf 2016 on project documentation
     1. Tutorial
 1. Story time: Adventures in contributing to CPython
 1. Top Ten Sphinx Tricks
+    1. syntax highlighting (code, linenos, emphasizelines)
     1. shell
     1. intersphinx
     1. API
