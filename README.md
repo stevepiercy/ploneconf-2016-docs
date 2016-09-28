@@ -23,4 +23,6 @@ Presentation for PloneConf 2016 on project documentation
     1. intersphinx
     1. API
     1. version
-1. Hard to do: design and themes
+1. Hard to do:
+    1. design and themes
+    1. PDF
